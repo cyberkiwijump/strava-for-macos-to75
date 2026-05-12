@@ -1,4 +1,4 @@
-# 
+# rare Strava for macOS Module | nutrition-database + calorie-counter offers the most advanced Strava for macOS module, with nutrition-database and calorie-counter. Ideal for macOS
 
 
 
